@@ -8,7 +8,7 @@ Any feedback and suggestions are welcome. Feel free to submit yours via Pull Req
 
 ## Contents
 
-### 1. An Introduction to JavaScript
+### 1. [An Introduction to JavaScript](/introduction/intro.md)
 
 #### 1.1 What is JavaScript?
 
