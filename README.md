@@ -1,6 +1,6 @@
-![Cover of Fundamentals of JS](./fundamentals-of-js-ig-cover.png)
+![Cover of Fundamentals of JS](./course-cover-en.png)
 
-# fundamentalsOf{JS}™️
+# fundamentalsOf{JS}™ - Fundamentals of JavaScript
 
 This is an introductory course to the JavaScript language. This project reflects my journey to becoming a JavaScript developer. Many sources are referenced to complement the information. I have decided to share this with everyone as an entry point to the world of JavaScript for all those people out there who would like to join us.
 
@@ -8,7 +8,7 @@ Any feedback and suggestions are welcome. Feel free to submit yours via Pull Req
 
 ## Contents
 
-### 1. JavaScript 101
+### 1. An Introduction to JavaScript
 
 #### 1.1 What is JavaScript?
 
