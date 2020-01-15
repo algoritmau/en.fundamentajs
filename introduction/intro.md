@@ -1,3 +1,3 @@
 # An Introduction to JavaScript
 
-JavaScript has become ubiquitous in modern web development. This powerful language has evolved into a must for any web developer to understand (or at least, pretend they do 😅). In this article we will take look at JavaScript from a high-level perspective, going through questions such as *What is JavaScript?*, *What can we do with it?* and *Why you should learn it?*, as well as its purpose, and the main tools required to start writing JavaScript.
+JavaScript has become ubiquitous in modern web development. This powerful language has evolved into a must for any web developer to understand (or at least, pretend they do 😅). In this article we will take a look at JavaScript from a high-level perspective, going through questions such as *What is JavaScript?*, *What can we do with it?* and *Why you should learn it?*, as well as its purpose, and the main tools required to start writing JavaScript.
