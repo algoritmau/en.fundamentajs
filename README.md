@@ -1,4 +1,4 @@
-![Cover of Fundamentals of JS](./course-cover-en.png)
+![Cover of Fundamentals of JS](./assets/img/fundamentajs-cover.png)
 
 # fundamentalsOf{JS}™ - Fundamentals of JavaScript
 
