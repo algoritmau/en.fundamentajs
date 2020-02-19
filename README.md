@@ -1,6 +1,6 @@
 # fundamentaJS: Fundamentals of JavaScript
 
-![Cover of Fundamentals of JS](./assets/img/fundamentajs-cover.png)
+![Cover of the fundamentaJS course](./assets/img/fundamentajs-cover.png)
 
 Welcome to fundamentaJS, an introductory course to JavaScript. This project started while I was learning the JavaScript language. I decided to document my learning process and share it publicly as an entry point to the JavaScript world for all those people out there who would like to learn the language. Many sources are referenced to complement the information.
 
